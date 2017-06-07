@@ -1,0 +1,4 @@
+ID,DotType,Damp,INTCp,INTSp,ATKCp,ATKSp,PoisonCp
+0,BURN,0.8,0.2,0.03,0,0,1.5
+1,BURN,0.8,0.5,0.01,0,0,1.5
+2,BURN,0.8,0,0,0.3,0,0

@@ -1,0 +1,29 @@
+ID,FORMAT_LABEL,TEXT_EN,TEXT_JP,TEXT_CNS,TEXT_CNT
+0,BLANK_LINE,,,,
+1,HERO_NAME,<color=#00ffffff>{0}</color>,<color=#00ffffff>{0}</color>,<color=#00ffffff>{0}</color>,<color=#00ffffff>{0}</color>
+2,ENEMY_NAME,<color=#ff0000ff>{0}</color>,<color=#ff0000ff>{0}</color>,<color=#ff0000ff>{0}</color>,<color=#ff0000ff>{0}</color>
+3,SKILL_NAME,{0},{0},{0},{0}
+4,ACTIVE_ATTACK,<b>{0}</b> active <b>normal attack</b>,<b>{0}</b> が <b>攻撃</b> を発動する。,<b>{0}</b> 发动 <b>攻击</b>,<b>{0}</b> 发动 <b>攻击</b>
+5,ACTIVE_SKILL,<b>{0}</b> active <b>{1}</b>,<b>{0}</b> が <b>{1}</b> を発動する。,<b>{0}</b> 发动 <b>{1}</b>,<b>{0}</b> 发动 <b>{1}</b>
+6,AVOID_ATTACK,<b>{0}</b> avoided attack,<b>{0}</b> が 攻撃 を回避した。,<b>{0}</b> 回避了攻击,<b>{0}</b> 回避了攻击
+7,GET_DAMAGE,<b>{0}</b> got damage {1},<b>{0}</b> が {1} のダメージを受けた。,<b>{0}</b> 受到了 {1} 点伤害 ,<b>{0}</b> 受到了 {1} 点伤害 
+8,NORMAL_DAMAGE,<color=red>{0}</color> ,<color=red>{0}</color> ,<color=red>{0}</color> ,<color=red>{0}</color> 
+9,BLAST_DAMAGE,[BLAST]<color=yellow>{0}</color> ,[BLAST]<color=yellow>{0}</color> ,[暴]<color=yellow>{0}</color> ,[暴]<color=yellow>{0}</color> 
+10,MARK_POSITIVE,+,+,+,+
+11,MARK_NAGATIVE,-,-,-,-
+12,MARK_SPLIT,",",、,、,、
+13,BATTLE_ENGAGE,BATTLE_ENGAGE,BATTLE_ENGAGE,遭遇了战斗！,BATTLE_ENGAGE
+14,BATTLE_DONE,BATTLE_DONE,BATTLE_DONE,战斗结束,BATTLE_DONE
+15,IS_DEAD,{0} IS_DEAD,{0} IS_DEAD,<b>{0}</b> 给跪了,{0} IS_DEAD
+16,GOT_EXP,GOT_EXP {0},GOT_EXP {0},获得了 {0} exp,GOT_EXP {0}
+17,LEVEL_UP,LEVEL_UP {0} {1} ,LEVEL_UP {0} {1},<b>{0}</b> 等级升至 Lv.{1},LEVEL_UP {0} {1}
+18,GOT_AURA,GOT_AURA {0},GOT_AURA {0},获得了 {0} 斗魂,GOT_AURA {0}
+19,GOT_DIMENSION_CHIP,GOT_DIMENSION_CHIP {0},GOT_DIMENSION_CHIP {0},获得了 {0} 次元碎片,GOT_DIMENSION_CHIP {0}
+20,SKILL_DOT_BURN_ATTACH,<b>{0}</b> 叠加了 <color=yellow>{1}</color> 点烧伤,<b>{0}</b> 叠加了 <color=yellow>{1}</color> 点烧伤,<b>{0}</b> 叠加了 <color=yellow>{1}</color> 点烧伤,<b>{0}</b> 叠加了 <color=yellow>{1}</color> 点烧伤
+21,SKILL_DOT_BURN_DAMAGE,<b>{0}</b> 受到了 <color=red>{1}</color> 点燃烧伤害,<b>{0}</b> 受到了 <color=red>{1}</color> 点燃烧伤害,<b>{0}</b> 受到了 <color=red>{1}</color> 点燃烧伤害,<b>{0}</b> 受到了 <color=red>{1}</color> 点燃烧伤害
+22,SKILL_MUST_FAILED,   因能力平衡崩溃，攻击没有顺利使出,   因能力平衡崩溃，攻击没有顺利使出,   因能力平衡崩溃，攻击没有顺利使出,   因能力平衡崩溃，攻击没有顺利使出
+23,DEFENDER_AC_DOWN,<b>{0}</b> AC - <color=red>{1}</color> ,<b>{0}</b> AC - <color=red>{1}</color> ,<b>{0}</b> AC - <color=red>{1}</color> ,<b>{0}</b> AC - <color=red>{1}</color> 
+24,DEFENDER_ATK_DOWN_DEF_DOWN,<b>{0}</b> ATK- <color=red>{1}</color> DEF- <color=red>{2}</color> ,<b>{0}</b> ATK- <color=red>{1}</color> DEF- <color=red>{2}</color> ,<b>{0}</b> ATK- <color=red>{1}</color> DEF- <color=red>{2}</color> ,<b>{0}</b> ATK- <color=red>{1}</color> DEF- <color=red>{2}</color> 
+25,DEFENDER_HIT_DOWN_AVD_DOWN,<b>{0}</b> HIT- <color=red>{1}</color> AVD- <color=red>{2}</color>,<b>{0}</b> HIT- <color=red>{1}</color> AVD- <color=red>{2}</color>,<b>{0}</b> HIT- <color=red>{1}</color> AVD- <color=red>{2}</color>,<b>{0}</b> HIT- <color=red>{1}</color> AVD- <color=red>{2}</color>
+26,DEFENDER_HIT_DOWN_AVD_DOWN_CRI_DOWN,<b>{0}</b> HIT- <color=red>{1}</color> AVD- <color=red>{2}</color> CRI- <color=red>{3}</color>,<b>{0}</b> HIT- <color=red>{1}</color> AVD- <color=red>{2}</color> CRI- <color=red>{3}</color>,<b>{0}</b> HIT- <color=red>{1}</color> AVD- <color=red>{2}</color> CRI- <color=red>{3}</color>,<b>{0}</b> HIT- <color=red>{1}</color> AVD- <color=red>{2}</color> CRI- <color=red>{3}</color>
+27,HP_UP,<b>{0}</b> 恢复了 <color=green>{1}<.color> 点HP,<b>{0}</b> 恢复了 <color=green>{1}<.color> 点HP,<b>{0}</b> 恢复了 <color=green>{1}<.color> 点HP,<b>{0}</b> 恢复了 <color=green>{1}<.color> 点HP

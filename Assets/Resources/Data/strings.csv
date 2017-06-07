@@ -1,0 +1,105 @@
+ID,LABEL,TEXT_EN,TEXT_JP,TEXT_CNS,TEXT_CNT
+0,CREDITS,,,,
+1,SETTINGS_TITLE,Settings,設定,设置,設置
+2,AUDIO_BLOCK,Audio Volume,音声調整,音量调整,音量調整
+3,LANG_BLOCK,Language,言語,语言,語言
+4,OTHERS_BLOCK,Others,その他,其他,其他
+5,CREDITS_BUTTON,Credits,<size=30>クレジット</size>,制作信息,製作信息
+6,BGM_LABEL,BGM,BGM,背景音量,BGM
+7,SE_LABEL,SE,SE,特效音量,SE
+8,TITLE_HOW_TO_PLAY_BUTTON,How To Play,遊び方法,游戏说明,遊戲說明
+9,TITLE_LANGUAGE_SETTING_BUTTON,Language Settings,言葉設定,选择语言,選擇語言
+10,TITLE_DELETE_LOCAL_DATA_BUTTON,Delete local SaveData,データ消す,清空本地存档,清空本地存檔
+11,TITLE_UPLOAD_LOCAL_DATA_BUTTON,Upload Save Data,アップロードデータ,上传存档,上傳存檔
+12,TITLE_DOWNLOAD_DATA_BUTTON,Download Save Data,ダンロードデータ,下载存档,下載存檔
+13,GO_BACK,Back,戻る,返回,返回
+14,TITLE_SETTINGS_BUTTON,Settings,設定,设置,設置
+15,TITLE_CREATE_HERO_BUTTON,Create new Hero,新しいヒーロー,创建新角色,創建新角色
+16,TITLE_CONTINUE_GAME_BUTTON,Continue game,ゲーム続ける,继续游戏,繼續遊戲
+17,CONFIRMATION_BUTTON,OK,オーケー,确定,確定
+18,TITLE_CONFIRMATION_MESSAGE,To start a new game<cm> will lose the game the archive<cm>is sure to start a new game?,新しいゲームは、ゲームのデータ全部消す、確認しますか?,开始新游戏，则会丢失当前游戏存档，是否确定开始新游戏吗？,開始新遊戲，則會丟失當前遊戲存檔，是否確定開始新遊戲嗎？
+19,CREATE_CHARACTER_REFRESH_BUTTON,Refresh,更新,刷新,刷新
+20,CREATE_CHARACTER_NAME_LABEL,Name:,名前:,名字:,名字:
+21,CREATE_CHARACTER_ATTRIBUTE_TITLE,Default Attribute&Growth Rate:,最初データ&成長率:,初始属性&成长率:,初始屬性&成長率:
+22,STRENGTH,Strength,力量,力量,力量
+23,PHYSIQUE,Physique,体格,体魄,體魄
+24,SAGACITY,Sagacity,叡智,睿智,睿智
+25,DEXTERITY,Dexterity,敏捷,敏捷,敏捷
+26,CREATE_CHARACTER_TITLE,Create Hero,ヒーロー作る,创建角色,創建角色
+27,HERO_INFORMATION_TITLE,Hero Information,ヒーローデータ,角色信息,角色信息
+28,HERO_INFORMATION_NEXT_LEVEL,Next Level:,次のレベル:,下一级,下一級
+29,HERO_INFORMATION_SKILL_POINT,Skill Point:,スキルポイント:,技能点:,技能點:
+30,HERO_INFORMATION_LIFE,HP,生命,生命,生命
+31,HERO_INFORMATION_RESISTANCE,RES,抵抗,抗性,抗性
+32,HERO_INFORMATION_ATK,ATK,物攻,物攻,物攻
+33,HERO_INFORMATION_MAG,MAG,魔攻,魔攻,魔攻
+34,HERO_INFORMATION_DEF,Defense,防御,防御,防禦
+35,HERO_INFORMATION_AC,Armor,鎧,护甲,護甲
+36,HERO_INFORMATION_CRI,Critical,暴击,暴击,暴擊
+37,HERO_INFORMATION_PEN,Penetrate,貫通,穿透,穿透
+38,HERO_INFORMATION_HIT,Hit,命中,命中,命中
+39,HERO_INFORMATION_AVOID,Avoid,回避,回避,迴避
+40,HERO_INFORMATION_NEXT_JUMP_BUTTON,Next Jump,次の跳躍,次元跳跃,次元跳躍
+41,NEXT_JUMP_HERO_LESS_THAN_THREE_DESCRIPTION,Yuan after the jump<cm>because the new ontology was born<cm>and the current frame will be maintained by the dimensional force member and unable to upgrade and change gear.,次元ジャンプしたため、新たな本体の誕生で、当面の本体を理由に次元力が維持の分身は、二度とのアップデートや装備を変更。,次元跳跃后，由于新的本体诞生，而当前的本体将变为由次元力维持的分身，无法再进行升级和变更装备。,次元跳躍后，由於新的本體誕生，而當前的本體將變為由次元力維持的分身，無法再進行升級和變更裝備。
+42,NEXT_JUMP_HERO_LESS_THAN_THREE_CONFIRMATION,Are you sure to dimensional leap?,あなたは次元にジャンプすると？,你确定进行次元跳跃吗？,你確定進行次元跳躍嗎？
+43,NEXT_JUMP_HERO_FULL_TITLE,Choose two places at once,選択の分身を選択する,选择留下的分身,選擇留下的分身
+44,NEXT_JUMP_HERO_FULL_DESCRIPTION,As a result of the limitation of power<cm>you can only maintain the existence of two dimensional member (including ontology<cm> a total of three combat role).,力の制限のため、あなたにしか維持次元分身の存在を含む（本体、共にさん名戦闘役）。,由于力量的限制，你只能维持2个次元分身的存在（包括本体，共3名战斗角色）。,由於力量的限制，你只能維持2個次元分身的存在（包括本地，共3名戰鬥角色）。
+45,NEXT_JUMP_HERO_SAVE_BUTTON,Save,保存,保留,保留
+46,HERO_INFORMATION_SKILL_BUTTON,Skill,スキル,技能,技能
+47,HERO_INFORMATION_EQUIPMENT_BUTTON,Equipment,装備,装备,裝備
+48,SKILL_INFORMATION_LEVEL_MARKING,Lv.{0},レベル{0},等级{0},等級{0}
+49,SKILL_INFORMATION_LEVEL_MAX,MAX,トップレベル,最高级,最高級
+50,HERO_INFORMATION_EXP,exp,経験値,经验值,經驗值
+51,SKILL_INFORMATION_RESET_SKILL_BUTTON,Reset Skill,リセット,重置技能,重置技能
+52,SKILL_INFORMATION_TITLE,Skill Information,スキルメッセージ,技能信息,技能信息
+53,SKILL_INFORMATION_LEARN_BUTTON,Learn,勉強,习得,習得
+54,SKILL_INFORMATION_UPGRADE_BUTTON,Upgrade,アップ,升级,升級
+55,SKILL_INFORMATION_ADVANCE_BUTTON,Advance,アドバンス,进阶,進階
+56,SKILL_INFORMATION_TRAINING_BUTTON,Training,訓練,训练,訓練
+57,SKILL_INFORMATION_ADVANCE_TITLE,Skill Advance,スキルアドバンス,技能进阶,技能進階
+58,SKILL_INFORMATION_ADVANCE_SELECT_BUTTON,Select,選択,选择,選擇
+59,SKILL_INFORMATION_MASTER_TITLE,Skill Master,スキルマスター,技能大师,技能大師
+60,BATTLE_MAIN_BOTTOM_MAP_BUTTON,Map,地図,地图,地圖
+61,BATTLE_MAIN_BOTTOM_HERO_BUTTON,Heros,ヒーロー,英雄,英雄
+62,BATTLE_MAIN_BOTTOM_ACHIEVEMENT_BUTTON,Achievement,成就,成就,成就
+63,BATTLE_MAIN_BOTTOM_STONE_BUTTON,Stone,魂石,魂石,魂石
+64,BATTLE_MAIN_BOTTOM_BATTLE_BUTTON,Battle,戦う,战斗,戰鬥
+65,BATTLE_MAIN_BOTTOM_SETTINGS_BUTTON,Settings,設定,设置,設置
+66,BATTLE_TOP_AURA,{0},{0},{0},{0}
+67,BATTLE_TOP_DIMENSION_CHIP,{0},{0},{0},{0}
+68,BATTLE_AREA_SEARCH_PROGRESS,Search Progress : {0}%,探索度：{0}%,探索度 : {0}%,探索度 : {0}%
+69,BATTLE_AREA_BOSS_BUTTON_LABEL,BOSS,BOSS,BOSS,BOSS
+70,SKILL_UNACQUIRED,Unacquired,勉強してない,未习得,未習得
+71,EQUIPMENT_INFORMATION_TITLE,Equipment Information,装備情報,装备信息,裝備信息
+72,EQUIPMENT_INFORMATION_EXCHANGE_BUTTON,Exchange,交換,更换,更換
+73,EQUIPMENT_INFORMATION_REINFORCEMENT,Reinforcement,強化,强化,強化
+74,EQUIPMENT_INFORMATION_BUILD,Build,ビルド,生成,生成
+75,EQUIPMENT_EXCHANGE_TITLE,Equipment exchange,装備交換,装备更换,裝備更換
+76,EQUIPMENT_TAKE_ON_LABEL,Taking On,装備中,当前装备,當前裝備
+77,EQUIPMENT_BUILD_NEW_BUTTON,Build new equipment,装備作る,生成新装备,生成新裝備
+78,EQUIPMENT_NEW_EQUIPMENT_TITLE,New equipment,新しい装備,新装备,新裝備
+79,EQUIPMENT_DESTROY_BUTTON,Destroy,廃棄,销毁,銷毀
+80,EQUIPMENT_ATTRIBUTE_COMPARISON,Attribute comparison,属性比較,效果对比,效果對比
+81,EQUIPMENT_EXCHANGE_EQUIPMENTS_BUTTON,Exchange,着ける,装上,裝上
+82,EQUIPMENT_REINFORCEMENT_TITLE,Equipment Reinforcement,装備強化,装备强化,裝備強化
+83,EQUIPMENT_REINFORCEMENT_BUTTON,Reinforcement,強化,强化,強化
+84,EQUIPMENT_REINFORCEMENT_LEVEL1_BUTTON,Reinforcement(small){0}ten thousand Aura ,強化(小){0}万戦魂,强化(小){0}万战魂,强化(小){0}萬戰魂
+85,EQUIPMENT_REINFORCEMENT_LEVEL2_BUTTON,Reinforcement(normal){0}ten thousand Aura ,強化(普){0}万戦魂,强化(中){0}万战魂,强化(中){0}萬戰魂
+86,EQUIPMENT_REINFORCEMENT_LEVEL3_BUTTON,Reinforcement(big){0}ten thousand Aura ,強化(大){0}万戦魂,强化(大){0}万战魂,强化(大){0}萬戰魂
+87,EQUIPMENT_REINFORCEMENT_MIRACLE_BUTTON,Reinforcement(miracle){0}Dimension Chip,強化(奇跡){0}次元の欠片,强化(奇迹){0}次元碎片,强化(奇跡){0}次元碎片
+88,EQUIPMENT_REINFORCEMENT_SUCCESS_RATE_LABEL,Reinforcement success rate: {0}%,強化成功率:{0}%,强化成功率:{0}%,強化成功率:{0}%
+89,EQUIPMENT_BUILD_LEVEL_LESS_THAN_TEN_THOUSAND_BUTTON,{0}Aura,{0}戦魂,{0}战魂,{0}戰魂
+90,EQUIPMENT_BUILD_LEVEL_MORE_THAN_TEN_THOUSAND_BUTTON,{0}ten thousand Aura ,{0}万戦魂,{0}万战魂,{0}萬戰魂
+91,EQUIPMENT_COMPARISON,Equipment comparison,装備比較,装备对比,裝備對比
+92,EQUIPMENT_DESTROY_ACQUIRE_DIMENSION_CHIP_TITLE,Destroy Acquire,廃棄受ける,销毁获得,銷毀獲得
+93,EQUIPMENT_DESTROY_ACQUIRE_DIMENSION_CHIP_DESCRIPTION,In the destruction of {0}<cm>suddenly burst out of a special force,{0}廃棄中、特別な力を受ける,{0}在销毁时，突然爆发出一股特别的力量,{0}在銷毀時，突然爆發出了一股特別的力量
+94,EQUIPMENT_NONE_TEXT,No equipment,装備なし,无装备,無裝備
+95,EQUIPMENT_DESTROY_ACQUIRE_DIMENSION_CHIP_NUMBER,you get {0} dimension chip,{0}戦魂を受ける,你获得了{0}次元碎片,你獲得了{0}次元碎片
+96,EQUIPMENT_DESTROY_CONFIRM_TITLE,Destroy Equipment,廃棄装備,销毁装备,銷毀裝備
+97,EQUIPMENT_DESTROY_DESCRIPTION,If you still have not equipped with {0}<cm>leave the page<cm>not equipped with automatic {0} will be destroyed,あなたは今に未装備の{0}があり、このページを離れ、装備の{0}は自動的に廃棄しなかった。,您现在仍有未装备的{0}，若离开该页面，未装备的{0}将自动销毁。,您现在仍有未装备的{0}，若离开该页面，未装备的{0}将自动销毁。
+98,EQUIPMENT_DESTROY_CONFIRM,Do you want to destroy and leave?,かどうかを離れなければならないお廃棄?,您是否要销毁并离开？,您是否要銷毀并離開
+99,EQUIPMENT_TYPE_WEAPON,Weapon,兵器,武器,武器
+100,EQUIPMENT_TYPE_ARMOR,Armor,防具,防具,防具
+101,EQUIPMENT_TYPE_DECORATIONS,Decorations,かざりもの,饰品,飾品
+102,TITLE_CONFIRMATION_TITLE_TEXT,Attention,注意,注意,注意
+103,BATTLE_AREA_SEARCH_PROGRESS_100,BOSS,BOSS,发现BOSS,发现BOSS

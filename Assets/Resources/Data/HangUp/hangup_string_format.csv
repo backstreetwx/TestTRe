@@ -1,0 +1,12 @@
+ID,LABEL,TEXT_EN,TEXT_JP,TEXT_CNS,TEXT_CNT
+0,BLANK,,,,
+1,TITLE_NORMAL,挂机收益,挂机收益,挂机收益,挂机收益
+2,OFFLINE_TIME_TEXT,离线时长: {0}小时 {1}分钟,离线时长: {0}小时 {1}分钟,离线时长: {0}小时 {1}分钟,离线时长: {0}小时 {1}分钟
+3,GET_EXP_TEXT,+{0}经验值,+{0}经验值,+{0}经验值,+{0}经验值
+4,GET_AURA_TEXT,+{0}斗魂,+{0}斗魂,+{0}斗魂,+{0}斗魂
+5,GET_DIMENSION_CHIP_TEXT,+{0}次元碎片,+{0}次元碎片,+{0}次元碎片,+{0}次元碎片
+6,BUTTON_GET,GET,GET,获取,GET
+7,BUTTON_AD_VIDEO,看视频得{0}倍收益,看视频得{0}倍收益,看视频得{0}倍收益,看视频得{0}倍收益
+8,TITLE_CONNECTION_ERROR,通信失败,通信失败,通信失败,通信失败
+9,CONNECTION_ERROR_TEXT,网络通信失败<br>无法获得挂机收益,网络通信失败<br>无法获得挂机收益,网络通信失败<br>无法获得挂机收益,网络通信失败<br>无法获得挂机收益
+10,BUTTON_OK,OK,OK,确定,OK

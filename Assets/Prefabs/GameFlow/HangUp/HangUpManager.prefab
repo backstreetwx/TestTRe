@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000010649947950}
+  m_IsPrefabParent: 1
+--- !u!1 &1000010649947950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011762648796}
+  - 114: {fileID: 114000010348333956}
+  m_Layer: 0
+  m_Name: HangUpManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000011762648796
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010649947950}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000010348333956
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010649947950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72fd71c614fda094488c9ba10d9077e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RewardPrefab: {fileID: 1000011482097780, guid: 27363c15696da3b4680c21f76fa84414,
+    type: 2}
+  ConnectionErrorPrefab: {fileID: 1000012417907358, guid: 528ea9f6f86025d43af8816240c40878,
+    type: 2}
+  TimeURL: http://www.microsoft.com
+  BaseYear: 2017
+  BaseMonth: 1
+  BaseDay: 1
+  BattleData:
+    Area: -1
+    Level: -1
+    SearchPointForBoss: -1
+    SearchPointOutput: 0
+    SearchPointPunishment: 0
+    EnableBossBattle: 0
+    CurrentBattleType: 0
+    BossBattleEnemyList: []
+  ConstValues:
+    ID: 0
+    TimeoutMiliseconds: 0
+    RefreshTimeSeconds: 0
+    VideoRewardTimes: 0
+    CAMin: 0
+    CAMax: 0
+    CBMin: 0
+    CBMax: 0
+    CCMin: 0
+    CCMax: 0
+    CDemensionMin: 0
+  IsGameOver: 0

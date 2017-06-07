@@ -1,0 +1,11 @@
+ID,AttributeType,RandMin,RandMax
+0,STR,10,20
+1,VIT,10,20
+2,INT,10,20
+3,DEX,10,20
+4,AC,5,10
+5,PEN,5,10
+6,CRI,5,10
+7,RES,8,17
+8,HIT,8,17
+9,AVD,8,17
